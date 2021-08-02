@@ -1,2 +1,2 @@
-# gaming_colab
+# gaming_collab
 practice: gaming site collaboration with angela
